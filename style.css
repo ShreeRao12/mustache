@@ -1,0 +1,10 @@
+body
+{
+background-image: url("mustache.jfif");
+}
+canvas
+{
+border-color: black;
+border-width: 5px;
+border-style: solid;
+}
